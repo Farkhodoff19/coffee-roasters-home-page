@@ -177,7 +177,7 @@ img {
   margin-bottom: 70px;
 }
 
-.our-collection__background--first {
+.our-collection__background-first {
   position: absolute;
   left: -140.53%;
   right: 169.61%;
@@ -190,7 +190,7 @@ img {
   transform: translateX(-14%);
 }
 
-.our-collection__background--second {
+.our-collection__background-second {
   position: absolute;
   left: 188.54%;
   right: -160.76%;
@@ -201,7 +201,7 @@ img {
   background-image: url(../images/background-second.svg);
 }
 
-.our-collection__background--third {
+.our-collection__background-third {
   position: absolute;
   left: -164.61%;
   right: 199.67%;
